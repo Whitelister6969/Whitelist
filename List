@@ -6,14 +6,14 @@
             "Delta": "8cce6018f6ddd782b3e391f99f4f651c3e4598028b5af1987ffed07ff43fa09d",
         },
         "SerialKey": "158e6f01-fdea-4088-bdff-ab96ba78e045",
-    },
+    }
     "User1": {
         "Player": {
             "Xeno": "xxxxxx",
             "Delta": "xxxxxx",
         },
         "SerialKey": "product-key1",
-    },
+    }
     "User2": {
         "Player": {
             "Xeno": "xxxxxx",
