@@ -7,10 +7,9 @@
         },
         "SerialKey": "158e6f01-fdea-4088-bdff-ab96ba78e045"
     },
-    "User1": {
-        "Player": {
-            "Xeno": "xxxxxx",
-            "Delta": "xxxxxx"
+    "User": {
+        "Chasey": {
+            "Xeno": "392d7f26-85dd-11ef-a41b-806e6f6e6963",
         },
         "SerialKey": "product-key1"
     },
