@@ -7,26 +7,24 @@
         },
         "SerialKey": "158e6f01-fdea-4088-bdff-ab96ba78e045"
     },
-    "Users": [
-        {
-            "Chasey": {
-                "Xeno": "392d7f26-85dd-11ef-a41b-806e6f6e6963"
-            },
-            "SerialKey": "4e2f9a99-e402-4883-9255-6a24b9b0054f"
+    "User": {
+        "Chasey": {
+            "Xeno": "392d7f26-85dd-11ef-a41b-806e6f6e6963"
         },
-        {
-            "Player": {
-                "Xeno": "xxxxxx",
-                "Delta": "xxxxxx"
-            },
-            "SerialKey": "product-key2"
+        "SerialKey": "4e2f9a99-e402-4883-9255-6a24b9b0054f"
+    },
+    "User2": {
+        "Player": {
+            "Xeno": "xxxxxx",
+            "Delta": "xxxxxx"
         },
-        {
-            "Player": {
-                "Xeno": "xxxxxx",
-                "Delta": "xxxxxx"
-            },
-            "SerialKey": "product-key3"
-        }
-    ]
+        "SerialKey": "product-key2"
+    },
+    "User3": {
+        "Player": {
+            "Xeno": "xxxxxx",
+            "Delta": "xxxxxx"
+        },
+        "SerialKey": "product-key3"
+    }
 }
