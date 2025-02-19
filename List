@@ -20,10 +20,38 @@
         "SerialKey": "74a8ae8a-58f7-4c73-87dc-7b20812e7684"
     },
     "User3": {
+        "Việt An": {
+            "Solara": "61663361386365653339313533633463373238623534626230323938653537303366613664633365656364343734393539386464363263616537316363343935",
+            "Delta": "xxxxxx"
+        },
+        "SerialKey": "2b147bc8-e296-461a-bf32-659aeda40105"
+    }
+    "User4": {
         "Player": {
             "Xeno": "xxxxxx",
             "Delta": "xxxxxx"
         },
-        "SerialKey": "product-key3"
+        "SerialKey": "product-key4"
+    }
+    "User5": {
+        "Player": {
+            "Xeno": "xxxxxx",
+            "Delta": "xxxxxx"
+        },
+        "SerialKey": "product-key5"
+    }
+    "User6": {
+        "Player": {
+            "Xeno": "xxxxxx",
+            "Delta": "xxxxxx"
+        },
+        "SerialKey": "product-key6"
+    }
+    "User7": {
+        "Player": {
+            "Xeno": "xxxxxx",
+            "Delta": "xxxxxx"
+        },
+        "SerialKey": "product-key7"
     }
 }
