@@ -15,135 +15,44 @@
         "SerialKey": "9be6971c-0c14-4df2-b333-bf1c26a51656"
     },
     "User2": {
-        "Kaka-Kun": {"DiscordID": "994272665051344906",
-            "Xeno": "0492c31c-f10d-11ef-b1d0-806e6f6e6963",
-            "Delta": "b641a01cccf1ab14cede9f3cac8ccc48d48b800efe5d2fe854ab4c726c7a7471"
-        },
-        "SerialKey": "74a8ae8a-58f7-4c73-87dc-7b20812e7684"
-    },
-    "User3": {
-        "Việt An": {"DiscordID": "808909417201926164",
-            "Solara": "61663361386365653339313533633463373238623534626230323938653537303366613664633365656364343734393539386464363263616537316363343935",
-            "Delta": "xxxxxx"
-        },
-        "SerialKey": "2b147bc8-e296-461a-bf32-659aeda40105"
-    },
-    "User4": {
-        "Zenny": {"DiscordID": "1132584260902080562",
-            "UserID": "2762400847",
-            "Delta": "xxxxxx"
-        },
-        "SerialKey": "4c0f45e7-42c6-4ed6-a4e5-ae6270503482"
-    },
-    "User5": {
-        "Andrew": {"DiscordID": "850220421844697120",
-            "Xeno": "0c5163fe-e165-11ef-8ed7-806e6f6e6963",
-            "Delta": "xxxxxx"
-        },
-        "SerialKey": "97b4f28a-0fc9-47de-976d-66cfd6565a88"
-    },
-    "User6": {
         "Fausty": {"DiscordID": "761476471930880020",
             "Xeno": "b5243e73-ec81-11ef-8483-806e6f6e6963",
             "Delta": "xxxxxx"
         },
         "SerialKey": "63f5f811-5f67-4427-97c3-a5fe5ac1029d"
     },
-    "User7": {
-        "Maldy": {"DiscordID": "1066739684790763530",
-            "Sonar": "93A825DB0021B9239803E60940893F",
-            "Delta": "xxxxxx"
-        },
-        "SerialKey": "9df1f8db-223d-4708-87a9-9800db30a751"
-    },
-    "User8": {
-        "Chromey": {"DiscordID": "1045779280006750279",
-            "Solara": "36383761393233366333326134613033383933303164333762366636626230313332613932323739343832363239623363396334323635353466326465616136",
-            "Delta": "xxxxxx"
-        },
-        "SerialKey": "a39a18b6-a98e-47cb-aea3-e645db7abc2d"
-    },
-    "User9": {
-        "Shadowy": {"DiscordID": "962120187094659122",
-            "Xeno": "4735c739-b352-11ef-a84f-806e6f6e6963",
-            "Delta": "xxxxxx"
-        },
-        "SerialKey": "a965fca3-2e1e-4499-96f0-1d3f70631dbd"
-    },
-    "User10": {
-        "Suta-Kun": {"DiscordID": "662632525398540330",
-            "Xeno": "88ef9596-1860-11ef-ada9-806e6f6e6963"
-        },
-        "SerialKey": "07ddf920-102f-486c-ae14-7bf5dd605bba"
-    },
-    "User11": {
-        "Candle-Kun": {"DiscordID": "1133014230514278531",
-            "Xeno": "653f6636-bfb6-11ef-bed2-806e6f6e6963"
-        },
-        "SerialKey": "9c722ca1-e986-4273-8080-857daa2d6b0f"
-    },
-    "User12": {
-        "Leo-Kun": {"DiscordID": "839415254433267723",
-            "UserID": "757726153"
-        },
-        "SerialKey": "45d112af-ee90-49b4-b142-eb5a710c401b"
-    },
-    "User13": {
-        "Jac-Kun": {"DiscordID": "1299043375621734481",
-            "Solara": "64393833643135323561646237303836656563393436303134613731323561333031356563636435653831616533383966363438313466626436656534353037"
-        },
-        "SerialKey": "3f7019c0-3f46-4311-ad7f-d24500f5d1c4"
-    },
-    "User14": {
-        "Peak": {"DiscordID": "518278371592110081",
-            "Xeno": "c2b79552-bf78-11ef-a7ac-806e6f6e6963"
-        },
-        "SerialKey": "36f83730-c6e6-4079-a08c-65ba80427082"
-    },
-    "User15": {
-        "John Wick": {"DiscordID": "1212001504236539925",
-            "Solara": "31623834373165316162306132616236616636633838623938663234353232346338643231623631316562363532653035373130313063333032396339313037"
-        },
-        "SerialKey": "74f80ce4-9390-4b70-95ca-db3fb8228aea"
-    },
-    "User16": {
-        "Klurla": {"DiscordID": "1183787232809725962",
-            "Sonar": "1F83EDE7B9E10E5401422839F04D42"
-        },
-        "SerialKey": "1e6c711e-38d5-40e0-8ca2-fe872dd31647"
-    },
-    "User17": {
+    "User3": {
         "Stormy": {"DiscordID": "823903633799249960",
             "CrypticPC": "f0c1107144ea8bef8ff78891f63bd3b91c8d5269f48254f3ac30651fd22edc47",
             "Xeno": "f0c1107144ea8bef8ff78891f63bd3b91c8d5269f48254f3ac30651fd22edc47"
         },
         "SerialKey": "5ab40170-b974-491b-b11c-d28db7e9fa52"
     },
-    "User18": {
+    "User4": {
         "xxxxx": {"DiscordID": "xxxxx",
             "Delta": "xxxxx"
         },
         "SerialKey": "xxxxx"
     },
-    "User19": {
+    "User5": {
         "xxxxx": {"DiscordID": "xxxxx",
             "Delta": "xxxxx"
         },
         "SerialKey": "xxxxx"
     },
-    "User20": {
+    "User6": {
         "xxxxx": {"DiscordID": "xxxxx",
             "Delta": "xxxxx"
         },
         "SerialKey": "xxxxx"
     },
-    "User21": {
+    "User7": {
         "xxxxx": {"DiscordID": "xxxxx",
             "Delta": "xxxxx"
         },
         "SerialKey": "xxxxx"
     },
-    "User22": {
+    "User8": {
         "xxxxx": {"DiscordID": "xxxxx",
             "Delta": "xxxxx"
         },
